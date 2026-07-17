@@ -1,0 +1,8 @@
+.godot/
+.import/
+.mono/
+export_credentials.cfg
+*.tmp
+Thumbs.db
+.DS_Store
+opencode-session.private.json
